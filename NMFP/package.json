@@ -1,0 +1,21 @@
+{
+  "name": "no-more-fair-play",
+  "version": "2.16.0",
+  "description": "popbob sex dupe",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ."
+  },
+  "keywords": [],
+  "author": "MrDiamond64",
+  "license": "ISC",
+  "dependencies": {
+    "bedrock-protocol": "^3.21.0",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.7",
+    "prismarine-auth": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}

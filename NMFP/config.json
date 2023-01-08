@@ -1,0 +1,31 @@
+{
+  "checkUpdates": true,
+	"excludedRealms": [
+		"Example Realm 1",
+		123456,
+		"Example Realm 2",
+		7188130
+	],
+	"joinAutoJoinRealms": false,
+	"autoJoinRealms": [
+		
+	],
+	"servers": [{
+			"address": "localhost",
+			"port": 19132
+		}
+	],
+	"crashClients": false,
+	"autoReconnect": true,
+	"deviceOS": 11,
+	"botName": "",
+	"crashMethod": 2,
+	"seed": [0, false, "", "GET", "encryptData"],
+	"timings": {
+		"ms_type2_crash_delay": 180000,
+		"ms_wait_realm_open": 5000,
+		"ms_update_title_delay": 5000,
+		"ms_check_new_realms": 15000,
+		"ms_get_realm_ip_delay": 500
+	}
+}
